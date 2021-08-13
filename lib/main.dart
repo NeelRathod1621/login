@@ -63,7 +63,7 @@ class _LoginDemoState extends State<LoginDemo> {
                 decoration: InputDecoration(
                     border: OutlineInputBorder(),
                     labelText: 'Password',
-                    hintText: 'Enter secure password'),
+                    hintText: 'Password is empty'),
               ),
             ),
             TextButton(
